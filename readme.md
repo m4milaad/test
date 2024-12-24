@@ -2,4 +2,4 @@
 
 hello
 
-'Feature added to feature branch'
+'Feature added from feature branch'
