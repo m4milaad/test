@@ -1,7 +1,7 @@
 ## hello, Git!
 
 hello
-owais is good
+`owais` is good
 
 'Feature added from feature branch'
 
